@@ -2,3 +2,6 @@ This is line 0.
 This is line 1.
 This is line 2.
 This is line 3.
+Line 4
+And line 5
+whoa line 6
